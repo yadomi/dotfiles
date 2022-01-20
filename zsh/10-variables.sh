@@ -6,5 +6,3 @@ fi
 # Export some binaries that could be in ~/.bin
 export PATH=$PATH:"$HOME/.bin/"
 
-# GPG
-export GPG_TTY=$(tty)

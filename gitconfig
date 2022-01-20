@@ -8,6 +8,7 @@
 	pager = less
 	autocrlf = input
 	whitespace = cr-at-eol
+	trustctime = false
 [alias]
 	# Enchenhancement
 	lg = log --abbrev-commit --pretty=tformat:'%Cred%h%Creset %Cblue%G?%Creset %C(yellow)%an%Creset %C(green)%ad%Creset %s %C(auto)%d%Creset%C(bold blue) (%ar) %Creset' --date=short
