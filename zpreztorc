@@ -1,15 +1,14 @@
-zstyle ':prezto:*:*' case-sensitive 'no'
-zstyle ':prezto:*:*' color 'yes'
+# zstyle ':prezto:*:*' case-sensitive 'no'
+# zstyle ':prezto:*:*' color 'yes'
 
-zstyle ':prezto:load' pmodule \
-  'git' \
-  'history' \
-  'history-substring-search' \
-  'directory' \
-  'utility' \
-  'completion' \
-  'editor' \
-  'prompt'
+# zstyle ':prezto:load' pmodule \
+#   'git' \
+#   'history' \
+#   'history-substring-search' \
+#   'directory' \
+#   'utility' \
+#   'completion' \
+#   'editor' \
+#   'prompt'
 
-zstyle ':prezto:module:prompt' theme 'yadomi'
-zstyle ':prezto:module:git:info:context:subcontext' format 'string'
+# zstyle ':prezto:module:git:info:context:subcontext' format 'string'
